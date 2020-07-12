@@ -1,1 +1,1 @@
-# trump-tweet-analytics
+# トランプ大統領のツイート分析を公開します
